@@ -1,7 +1,7 @@
 # Atalla-s-Hotel 
 
 
-![Alt text](/Images/images/homepage.jpg)
+![Alt text](/Users/abdalla/Documents/Images/images/homepage.jpg)
 
 # What I learned & challenges
 - Basic Framework of websites 
