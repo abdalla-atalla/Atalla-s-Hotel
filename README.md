@@ -1,7 +1,7 @@
 # Atalla-s-Hotel 
 
 
-![HomePage](css/img/tower.jpg)
+![HomePage](/Users/abdalla/Documents/CSS/Atalla'sHotel/img/pyramids.jpg)
 
 # What I learned & challenges
 - Basic Framework of websites 
