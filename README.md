@@ -1,7 +1,7 @@
 # Atalla-s-Hotel 
 
 
-![Alt text](/path/to/homepage.jpg)
+![Alt text](/Images/images/homepage.jpg)
 
 # What I learned & challenges
 - Basic Framework of websites 
@@ -12,6 +12,6 @@
 - HTML
 - CSS
 
-#Future
+# Future
 - Make the website more responsive 
 
