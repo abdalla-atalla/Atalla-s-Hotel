@@ -1,5 +1,8 @@
 # Atalla-s-Hotel 
 
+
+![Alt text](/path/to/homepage.jpg)
+
 # What I learned & challenges
 - Basic Framework of websites 
 - How to put together HTML and CSS 
