@@ -1,7 +1,7 @@
 # Atalla-s-Hotel 
 
 
-![HomePage](img/homepage.jpg)
+
 ![HomePage](img/homepage1.jpg)
 ![HomePage](img/homepage2.jpg)
 ![HomePage](img/about.jpg)
